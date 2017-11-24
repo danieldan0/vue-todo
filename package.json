@@ -81,6 +81,6 @@
     "not ie <= 8"
   ],
   "gh-pages-deploy": {
-    "staticpath": "build"
+    "staticpath": "dist"
   }
 }
